@@ -1,0 +1,2 @@
+pyinstaller -F --noconsole --hidden-import babel.numbers --icon security.ico developer.py
+pyinstaller -F --noconsole --hidden-import babel.numbers --icon chicken.ico main.py
